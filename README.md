@@ -28,7 +28,7 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
   - `Class = 0` → Normal
   - `Class = 1` → Fraud
 
-> The dataset is highly imbalanced, making fraud detection a challenging classification problem. :contentReference[oaicite:1]{index=1}  
+The dataset is highly imbalanced, making fraud detection a challenging classification problem. :contentReference[oaicite:1]{index=1}  
 
 **Objectives**
 
@@ -91,7 +91,7 @@ Since the dataset is imbalanced, the following metrics were used:
 - Confusion Matrix
 - ROC-AUC Score
 
-> Accuracy alone is not reliable for imbalanced datasets.
+Accuracy alone is not reliable for imbalanced datasets.
 
 **Results**
 
